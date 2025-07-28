@@ -18,5 +18,3 @@ Files
 - `gas_analysis.py` – Main code
 - `nat_gas.csv` – Historical data
 - `*.png` – Visual output charts
-
-
